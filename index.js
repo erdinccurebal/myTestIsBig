@@ -1,3 +1,3 @@
 setInterval(() => {
-    console.log("AM")
+    console.log("AMS")
 }, 3000)
